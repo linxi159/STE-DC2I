@@ -1,0 +1,749 @@
+GENE_SYMBOL,TUMOUR_TYPES_SOMATIC,CRC_is
+ACVR2A,"large intestine carcinoma, stomach carcinoma, pancreatic carcinoma, biliary tract, oesophagus",1
+AKT1,"breast, colorectal, ovarian, NSCLC",1
+APC,"colorectal, pancreatic, desmoid, hepatoblastoma, glioma, other CNS",1
+ARHGAP5,"colon cancer, glioma",1
+ARHGEF10,colon cancer,1
+AXIN1,"colorectal, endometrial, prostate, hepatocellular carcinoma, hepatoblastoma, sporadic medulloblastoma",1
+AXIN2,"colorectal carcinoma, stomach carcinoma, hepatocellular carcinoma",1
+B2M,"DLBCL, melanoma, colorectal adenocarcinoma",1
+BAX,colorectal cancer,1
+BAZ1A,"uterine carcinosarcoma, colon cancer",1
+BCL9L,"colorectal cancer, endometrial carcinoma, gastric cancer",1
+BRAF,"melanoma, colorectal, papillary thyroid, borderline ovarian, NSCLC, cholangiocarcinoma, pilocytic astrocytoma, Spitzoid tumour, pancreas acinar carcinoma, melanocytic nevus, prostate, gastric",1
+CNBD1,"gastric cancer, colon cancer",1
+CTNNB1,"colorectal, ovarian,  hepatoblastoma, pleomorphic salivary gland adenoma, other tumour types",1
+CUX1,"endometrial, melanoma, colorectal, AML, MDS, other tumour types",1
+DCAF12L2,CRC,1
+DCC,"CRC, melanoma, SCC",1
+EP300,"colorectal, breast, pancreatic, AML, ALL, DLBCL",1
+EPHA3,"lung cancer, CRC, melanoma",1
+EPHA7,"CRC, melanoma",1
+ERBB3,"colon, gastric, head and neck, bladder, skin",1
+FAT3,"SCC, colon adenocarcinoma, gastric adenocarcinoma",1
+FBLN2,"breast cancer, colorectal adenocarcinoma",1
+FBXW7,"colorectal, endometrial, T-ALL",1
+GLI1,"CRC, oesophagus cancer",1
+GRIN2A,"melanoma, colorectal carcinoma, gastric carcinoma, lung carcinoma",1
+HIF1A,"endometrioid carcinoma, glioblastoma, colorectal, renal, lung, pancreatic",1
+IKZF3,"B-ALL, CLL, breast cancer, colorectal cancer",1
+KRAS,"pancreatic, colorectal, lung, thyroid, AML, other tumour types",1
+MAP2K1,"NSCLC, melanoma, colorectal",1
+MAP2K4,"pancreatic, breast, colorectal",1
+MAX,"pheochromocytoma, endometrioid carcinoma, colon carcinoma",1
+MDM2,"sarcoma, glioma, colorectal, other tumour types",1
+MLH1,"colorectal, endometrial, ovarian, CNS tumours",1
+MSH2,"colorectal, endometrial, ovarian",1
+MSH6,colorectal,1
+NBEA,"large intestine carcinoma, multiple myeloma",1
+NTRK2,"colorectal cancer, ganglioglioma, glioma, HNSCC, lung adenocarcinoma",1
+PCBP1,CRC,1
+PIK3CA,"colorectal, gastric, glioblastoma, breast",1
+PIK3R1,"glioblastoma, ovarian, colorectal",1
+POLD1,CRC,1
+POLE,"colorectal carcinoma, endometrioid carcinoma, stomach carcinoma, skin cancer",1
+POLG,CRC,1
+PRDM2,"glioma, colon adenocarcinoma, gastric carcinoma, ovarian carcinoma, HNSCC",1
+PRPF40B,"melanoma, colon carcinoma, MDS",1
+PTPRK,colorectal,1
+PTPRT,"HNSCC, colorectal cancer, gastric cancer, lung cancer, melanoma",1
+QKI,"angiocentric glioma, colorectal cancer",1
+RAD17,"lymphoma, colon cancer",1
+RAD21,"AML, endometrium, colorectal, lung",1
+ROBO2,"colorectal adenocarcinoma, melanoma",1
+RSPO2,colorectal,1
+RSPO3,colorectal,1
+SALL4,"colorectal cancer, breast cancer, prostate cancer, glioblastoma, melanoma",1
+SETD1B,"CRC, endometrium",1
+SFRP4,"colorectal cancer, melanoma, SCC, gastric cancer, oesophageal SCC",1
+SMAD2,"colorectal carcinoma, hepatocellular carcinoma",1
+SMAD3,"colorectal carcinoma, oral squamous cell carcinoma",1
+SMAD4,"colorectal, pancreatic, small intestine",1
+SRC,"colorectal cancer, endometrial carcinoma",1
+STAG1,"colorectal cancer, AML",1
+TBL1XR1,"splenic marginal zone lymphoma, primary central nervous system lymphoma, colorectal carcinoma, gallbladder carcinoma",1
+TCF7L2,colorectal,1
+TGFBR2,"head and neck, colorectal",1
+TP53,"breast, colorectal, lung, sarcoma, adrenocortical, glioma, Spitzoid tumour, multiple other tumour types",1
+UBR5,"mantle cell lymphoma, gastric, colorectal",1
+USP44,"lung cancer, colon cancer",1
+USP9X,colon carcinoma,1
+VTI1A,colorectal,1
+WDCP,colorectal,1
+ZMYM3,"CRC, breast cancer",1
+ZNRF3,"colorectal cancer, adrenocortical carcinoma, gastric cancer",1
+A1CF,melanoma,0
+ABI1,AML,0
+ABL1,"CML, ALL, T-ALL",0
+ABL2,AML,0
+ACKR3,lipoma,0
+ACSL3,prostate,0
+ACSL6,"AML, AEL",0
+ACVR1,DIPG,0
+ACVR1B,pancreatic cancer,0
+AFDN,AL,0
+AFF1,AL,0
+AFF3,"ALL, T-ALL",0
+AFF4,ALL,0
+AKAP9,papillary thyroid,0
+AKT2,"ovarian, pancreatic",0
+AKT3,GBM,0
+ALDH2,leiomyoma,0
+ALK,"ALCL, NSCLC, neuroblastoma, inflammatory myofibroblastic tumour, Spitzoid tumour",0
+AMER1,Wilms tumour,0
+ANK1,CCRCC,0
+APOBEC3B,,0
+AR,prostate,0
+ARAF,"cholangiocarcinoma, lung adenocarcinoma, Langerhans cell histiocytosis",0
+ARHGAP26,"AML, MDS",0
+ARHGAP35,endometrial carcinoma,0
+ARHGEF10L,lymphoma,0
+ARHGEF12,AML,0
+ARID1A,"clear cell ovarian carcinoma, RCC, breast",0
+ARID1B,"breast, hepatocellular carcinoma, clear cell ovarian carcinoma",0
+ARID2,hepatocellular carcinoma,0
+ARNT,AML,0
+ASPM,"breast cancer, lung cancer, endometrial cancer, melanoma",0
+ASPSCR1,alveolar soft part sarcoma,0
+ASXL1,"MDS, CMML",0
+ASXL2,"melanoma, CCRCC, AML",0
+ATF1,"malignant melanoma of soft parts, angiomatoid fibrous histiocytoma",0
+ATIC,ALCL,0
+ATM,T-PLL,0
+ATP1A1,adrenal aldosterone producing adenoma,0
+ATP2B3,adrenal aldosterone producing adenoma,0
+ATR,"endometrial, gastric, epithelial ovarian, myeloma",0
+ATRX,"pancreatic neuroendocrine tumours, paediatric GBM",0
+BAP1,"uveal melanoma, breast, NSCLC, RCC",0
+BARD1,breast cancer,0
+BCL10,MALT,0
+BCL11A,B-CLL,0
+BCL11B,T-ALL,0
+BCL2,"NHL, CLL",0
+BCL2L12,"melanoma, SCC",0
+BCL3,CLL,0
+BCL6,"NHL, CLL",0
+BCL7A,BNHL,0
+BCL9,B-ALL,0
+BCLAF1,"melanoma, SCC",0
+BCOR,"retinoblastoma, AML, APL (translocation)",0
+BCORL1,"AML, HNSCC",0
+BCR,"CML, ALL, AML",0
+BIRC3,"CLL, MALT, MCL, MM",0
+BIRC6,"melanoma, gastric adenocarcinoma, lung adenocarcinoma",0
+BLM,,0
+BMP5,melanoma,0
+BMPR1A,,0
+BRCA1,ovarian,0
+BRCA2,"breast, ovarian, pancreatic",0
+BRD3,lethal midline carcinoma of young people,0
+BRD4,lethal midline carcinoma of young people,0
+BRIP1,,0
+BTG1,B-CLL,0
+BTG2,DLBCL,0
+BTK,"CLL, mantle cell lymphoma, WM",0
+BUB1B,,0
+C15orf65,"PMBL, Hodgkin lymphoma",0
+CACNA1D,adrenal aldosterone producing adenoma,0
+CALR,"MPN, MDS",0
+CAMTA1,epithelioid haemangioendothelioma,0
+CANT1,prostate,0
+CARD11,DLBCL,0
+CARS,ALCL,0
+CASP3,ovarian cancer,0
+CASP8,"hepatocellular, oral squamous cell, breast",0
+CASP9,glioma,0
+CBFA2T3,AML,0
+CBFB,AML,0
+CBL,"AML, JMML, MDS",0
+CBLB,AML,0
+CBLC,"cervical SCC, malignant melanoma",0
+CCDC6,"papillary thyroid, CML, NSCLC",0
+CCNB1IP1,leiomyoma,0
+CCNC,T-ALL,0
+CCND1,"CLL, B-ALL, breast",0
+CCND2,"NHL,CLL",0
+CCND3,MM,0
+CCNE1,serous ovarian,0
+CCR4,adult T-cell leukaemia/lymphoma,0
+CCR7,adult T-cell leukaemia/lymphoma,0
+CD209,prostate carcinoma,0
+CD274,"PMBL, Hodgkin lymphoma",0
+CD28,T-cell lymphoma,0
+CD74,NSCLC,0
+CD79A,"DLBCL, WM",0
+CD79B,"DLBCL, WM",0
+CDC73,parathyroid adenoma,0
+CDH1,"lobular breast, gastric",0
+CDH10,melanoma,0
+CDH11,aneurysmal bone cyst,0
+CDH17,melanoma,0
+CDK12,serous ovarian,0
+CDK4,,0
+CDK6,ALL,0
+CDKN1A,bladder cancer,0
+CDKN1B,"breast, small intestine neuroendocrine tumours",0
+CDKN2A,"melanoma, multiple other tumour types",0
+CDKN2C,"glioma, MM",0
+CDX2,AML,0
+CEBPA,"AML, MDS",0
+CEP89,Spitzoid tumour,0
+CHCHD7,salivary adenoma,0
+CHD2,"melanoma, large intestine, CLL, monoclonal B lymphocytosis",0
+CHD4,uterine serous carcinoma,0
+CHEK2,,0
+CHIC2,AML,0
+CHST11,B-CLL,0
+CIC,"oligodendroglioma, soft tissue sarcoma",0
+CIITA,"PMBL, Hodgkin lymphoma",0
+CLIP1,Spitzoid tumour,0
+CLP1,AML,0
+CLTC,"ALCL, renal",0
+CLTCL1,ALCL,0
+CNBP,aneurysmal bone cyst,0
+CNOT3,T-ALL,0
+CNTNAP2,"glioma, melanoma",0
+CNTRL,"MPN, NHL",0
+COL1A1,"DFSP, aneurysmal bone cyst",0
+COL2A1,"chondrosarcoma, enchondroma",0
+COL3A1,lipoblastoma,0
+COX6C,uterine leiomyoma,0
+CPEB3,lung cancer,0
+CREB1,"clear cell sarcoma, angiomatoid fibrous histiocytoma",0
+CREB3L1,myxofibrosarcoma,0
+CREB3L2,fibromyxoid sarcoma,0
+CREBBP,"ALL, AML, DLBCL, B-NHL",0
+CRLF2,"B-ALL, Downs associated ALL",0
+CRNKL1,base cell carcinoma,0
+CRTC1,salivary gland mucoepidermoid,0
+CRTC3,salivary gland mucoepidermoid,0
+CSF1R,"MDS, CML, AML, hemangioblastoma, CCRCC",0
+CSF3R,"aCML, CNL,  leukaemia lymphoma and MDS associated with severe congenital neutropenia, CMML, de novo AML, MDS",0
+CSMD3,"ovarian cancer, oral SCC, lung cancer",0
+CTCF,"endometrial, breast, head and neck cancer",0
+CTNNA1,"AML, MDS, cutaneous melanoma",0
+CTNNA2,gastric cancer,0
+CTNND1,large intestine carcinoma,0
+CTNND2,"prostae adenocarcinoma, GIST",0
+CUL3,lung cancer,0
+CXCR4,WM,0
+CYLD,cylindroma,0
+CYP2C8,melanoma,0
+CYSLTR2,uveal melanoma,0
+DAXX,"pancreatic neuroendocrine tumour, paediatric glioblastoma",0
+DCTN1,"inflammatory myofibroblastic tumour, Spitzoid tumour",0
+DDB2,,0
+DDIT3,liposarcoma,0
+DDR2,"squamous cell carcinoma, NSCLC",0
+DDX10,AML*,0
+DDX3X,"CLL, medulloblastoma",0
+DDX5,prostate,0
+DDX6,B-NHL,0
+DEK,AML,0
+DGCR8,Wilms tumour,0
+DICER1,"sex cord-stromal tumour, TGCT, embryonal rhabdomyosarcoma, pleuropulmonary blastoma, pituitary blastoma, Wilms tumour, thyroid cancer, other tumour types",0
+DNAJB1,fibrolamellar hepatocellular carcinoma,0
+DNM2,T-ALL,0
+DNMT3A,AML,0
+DROSHA,"Wilms tumour, NSCLC, bladder carcinoma",0
+EBF1,lipoma,0
+ECT2L,ETP ALL,0
+EED,"malignant peripheral nerve sheath tumours, MDS and related, lung adenocarcinoma",0
+EGFR,"glioma, NSCLC",0
+EIF1AX,"uveal melanoma, thyroid cancer (PDTC and ATC), low grade serous ovarian cancer",0
+EIF3E,colorectal,0
+EIF4A2,NHL,0
+ELF3,pancreatic cancer,0
+ELF4,AML,0
+ELK4,prostate,0
+ELL,AL,0
+ELN,B-ALL,0
+EML4,NSCLC,0
+EPAS1,"paraganglioma, pheochromocytoma, central nervous system hemangioblastomas",0
+EPS15,ALL,0
+ERBB2,"breast, ovarian, other tumour types, NSCLC, gastric",0
+ERBB4,"melanoma, gastric, NSCLC",0
+ERC1,"papillary thyroid, Spitzoid tumour",0
+ERCC2,,0
+ERCC3,,0
+ERCC4,,0
+ERCC5,,0
+ERG,"Ewing sarcoma, prostate, AML",0
+ESR1,breast,0
+ETNK1,"aCML, CMML, SM-AHD, HES",0
+ETV1,"Ewing sarcoma, prostate",0
+ETV4,"Ewing sarcoma, prostate carcinoma",0
+ETV5,prostate,0
+ETV6,"congenital fibrosarcoma, multiple different leukaemia and lymphoma tumour types including ALL, secretory breast, MDS",0
+EWSR1,"Ewing sarcoma, desmoplastic small round cell tumour , ALL, clear cell sarcoma, sarcoma, myoepithelioma, mesothelioma",0
+EXT1,,0
+EXT2,,0
+EZH2,DLBCL,0
+EZR,NSCLC,0
+FADD,"breast cancer, HNSCC",0
+FAM131B,pilocytic astrocytoma,0
+FAM135B,SCLC,0
+FAM47C,"melanoma, clear cell sarcoma of soft parts, SCLC",0
+FANCA,,0
+FANCC,,0
+FANCD2,,0
+FANCE,,0
+FANCF,,0
+FANCG,,0
+FAS,"TGCT, nasal NK/T lymphoma, skin squamous cell carcinoma-burn scar related",0
+FAT1,"oral squamous cell, chemorefractory CLL, head and neck, pancreatic acinar cell carcinoma",0
+FAT4,"lymphoma, pancreatic, head and neck, melanoma, hepatocellular carcinoma",0
+FBXO11,DLBCL,0
+FCGR2B,ALL,0
+FCRL4,B-NHL,0
+FEN1,,0
+FES,"HNSCC, ovarian carcinoma",0
+FEV,Ewing sarcoma,0
+FGFR1,"MPN, NHL, salivary adenoma",0
+FGFR1OP,"MPN, NHL",0
+FGFR2,"gastric, NSCLC, endometrial",0
+FGFR3,"bladder, MM, T-cell lymphoma",0
+FGFR4,rhabdomyosarcoma,0
+FH,,0
+FHIT,pleomorphic salivary gland adenoma,0
+FIP1L1,idiopathic hypereosinophilic syndrome,0
+FKBP9,glioma,0
+FLCN,,0
+FLI1,Ewing sarcoma,0
+FLNA,phyllodes tumour of the breast,0
+FLT3,"AML, ALL",0
+FLT4,soft tissue sarcoma,0
+FNBP1,AML,0
+FOXA1,"breast, prostate",0
+FOXL2,granulosa-cell tumour of the ovary,0
+FOXO1,alveolar rhabdomyosarcoma,0
+FOXO3,AL,0
+FOXO4,"AL, soft tissue sarcoma",0
+FOXP1,ALL,0
+FOXR1,neuroblastoma,0
+FSTL3,B-CLL,0
+FUBP1,oligodendroglioma,0
+FUS,"liposarcoma, AML, Ewing sarcoma, angiomatoid fibrous histiocytoma, fibromyxoid sarcoma",0
+GAS7,AML*,0
+GATA1,megakaryoblastic leukaemia of Downs syndrome,0
+GATA2,AML (CML blast transformation),0
+GATA3,breast,0
+GMPS,AML,0
+GNA11,"uveal melanoma, primary central nervous system melanocytic neoplasms",0
+GNAQ,"uveal melanoma, primary central nervous system melanocytic neoplasms",0
+GNAS,"pituitary adenoma, pancreatic intraductal papillary mucinous neoplasm, fibrous dysplasia",0
+GOLGA5,"papillary thyroid, Spitzoid tumour",0
+GOLPH3,"breast cancer, NSCLC, ovarian cancer",0
+GOPC,"glioblastoma, cholangiocarcinoma, borderline ovarian",0
+GPC3,,0
+GPC5,lung adenocarcinoma,0
+GPHN,AL,0
+GRM3,"melanoma, oral SCC",0
+GSK3B,endometrial cancer,0
+H3F3A,glioma,0
+H3F3B,chondroblastoma,0
+HERPUD1,prostate,0
+HEY1,mesenchymal chondrosarcoma,0
+HGF,"breast cancer, lung cancer, multiple myeloma",0
+HIP1,"CMML, NSCLC",0
+HIST1H3B,glioma,0
+HIST1H4I,NHL,0
+HLA-A,Spitzoid tumour,0
+HLF,ALL,0
+HMGA1,"microfollicular thyroid adenoma, various benign mesenchymal tumours",0
+HMGA2,"lipoma, leiomyoma, pleomorphic salivary gland adenoma",0
+HMGN2P46,prostate,0
+HNF1A,"hepatic adenoma, hepatocellular",0
+HNRNPA2B1,prostate,0
+HOOK3,papillary thyroid,0
+HOXA11,CML,0
+HOXA13,AML,0
+HOXA9,AML*,0
+HOXC11,AML,0
+HOXC13,AML,0
+HOXD11,AML,0
+HOXD13,AML*,0
+HRAS,"infrequent sarcomas, rare other tumour types",0
+HSP90AA1,NHL,0
+HSP90AB1,NHL,0
+ID3,Burkitt lymphoma,0
+IDH1,glioblastoma,0
+IDH2,glioblastoma,0
+IGF2BP2,lymphoma,0
+IGH,"MM, Burkitt lymphoma, NHL, CLL, B-ALL, MALT, MLCLS",0
+IGK,"Burkitt lymphoma, B-NHL",0
+IGL,Burkitt lymphoma,0
+IKBKB,SMZL,0
+IKZF1,"ALL, DLBCL",0
+IL2,intestinal T-cell lymphoma,0
+IL21R,NHL,0
+IL6ST,hepatocellular carcinoma,0
+IL7R,"ALL, ETP ALL",0
+IRF4,MM,0
+IRS4,"glioma, rhabdomyosarcoma, melanoma, breast cancer, T-ALL",0
+ISX,melanoma,0
+ITGAV,large intestine carcinoma,0
+ITK,peripheral T-cell lymphoma,0
+JAK1,ALL,0
+JAK2,"ALL, AML, MPN,  CML",0
+JAK3,"acute megakaryocytic leukaemia, ETP ALL",0
+JAZF1,endometrial stromal tumour,0
+JUN,sarcoma,0
+KAT6A,AML,0
+KAT6B,"AML, leiomyoma",0
+KAT7,CCRCC,0
+KCNJ5,adrenal adenoma,0
+KDM5A,AML,0
+KDM5C,clear cell renal carcinoma,0
+KDM6A,"renal cell carcinoma, bladder carcinoma, oesophageal SCC, MM, medulloblastoma, T-ALL, other tumour types",0
+KDR,"NSCLC, angiosarcoma",0
+KDSR,B-NHL,0
+KEAP1,"NSCLC, breast carcinoma",0
+KIAA1549,pilocytic astrocytoma,0
+KIF5B,"NSCLC, Spitzoid tumour",0
+KIT,"GIST, AML, TGCT, mastocytosis, mucosal melanoma",0
+KLF4,meningioma,0
+KLF6,"prostate, glioma",0
+KLK2,prostate,0
+KMT2A,"AML, ALL",0
+KMT2C,medulloblastoma,0
+KMT2D,"medulloblastoma, renal",0
+KNL1,AML,0
+KNSTRN,SCC,0
+KTN1,papillary thyroid,0
+LARP4B,"CRC, glioma",0
+LASP1,AML,0
+LATS1,skin basal cell carcinoma,0
+LATS2,malignant mesothelioma,0
+LCK,T-ALL,0
+LCP1,NHL,0
+LEF1,"B-ALL, T-ALL, eyelid sebaceous carcinoma, AML, lymphomas",0
+LEPROTL1,"lung cancer, colon cancer",0
+LHFPL6,lipoma,0
+LIFR,salivary adenoma,0
+LMNA,Spitzoid tumour,0
+LMO1,"T-ALL, neuroblastoma",0
+LMO2,T-ALL,0
+LPP,"lipoma, leukaemia",0
+LRIG3,NSCLC,0
+LRP1B,"CLL, ovarian cancer, oesophageal squamous cell carcinoma, urothelial cancer",0
+LSM14A,Spitzoid tumour,0
+LYL1,T-ALL,0
+LYN,"DLBCL, B-ALL, MPN",0
+LZTR1,glioblastoma,0
+MACC1,"liver, CRC",0
+MAF,MM,0
+MAFB,MM,0
+MALAT1,"renal cell carcinoma (childhood epithelioid), lung",0
+MALT1,MALT,0
+MAML2,salivary gland mucoepidermoid,0
+MAP2K2,"NSCLC, melanoma",0
+MAP3K1,luminal A breast,0
+MAP3K13,breast,0
+MAPK1,"CLL, ovarian mixed germ cell tumour, cervical carcinoma",0
+MB21D2,lung cancer,0
+MDM4,"glioblastoma, bladder, retinoblastoma",0
+MDS2,MDS,0
+MECOM,"AML, CML, MDS",0
+MED12,"uterine leiomyoma, fibroadenoma, phyllodes tumour",0
+MEN1,"parathyroid tumours, pancreatic neuroendocrine tumour",0
+MET,"papillary renal, head-neck squamous cell",0
+MGMT,glioma,0
+MITF,melanoma,0
+MLF1,AML,0
+MLLT1,AL,0
+MLLT10,AL,0
+MLLT11,ALL,0
+MLLT3,ALL,0
+MLLT6,AL,0
+MN1,"AML, MDS",0
+MNX1,AML,0
+MPL,MPN,0
+MRTFA,acute megakaryocytic leukaemia,0
+MSI2,CML,0
+MSN,ALCL,0
+MTCP1,T cell prolymphocytic leukaemia,0
+MTOR,"endometrial carcinoma, head and neck, clear cell renal cell carcinoma, anaplastic thyroid cancer, urothelial cell carcinoma, central nervous system tumours, testicular germ cell tumours and other tumour types",0
+MUC1,B-NHL,0
+MUC16,"HNSCC, melanoma",0
+MUC4,HNSCC,0
+MUC6,gastric cancer,0
+MUTYH,,0
+MYB,adenoid cystic carcinoma,0
+MYC,"Burkitt lymphoma, amplified in other cancers, B-CLL",0
+MYCL,small cell lung carcinoma,0
+MYCN,"neuroblastoma, Wilms tumour",0
+MYD88,ABC-DLBCL,0
+MYH11,AML,0
+MYH9,ALCL,0
+MYO5A,Spitzoid tumour,0
+MYOD1,embryonal rhabdomyosarcoma,0
+N4BP2,lung cancer,0
+NAB2,"solitary fibrous tumour, meningeal haemangiopericytoma",0
+NACA,NHL,0
+NBN,,0
+NCKIPSD,ALL,0
+NCOA1,alveolar rhabdomyosarcoma,0
+NCOA2,"AML, chondrosarcoma, rhabdomyosarcoma",0
+NCOA4,papillary thyroid,0
+NCOR1,breast,0
+NCOR2,prostate,0
+NDRG1,prostate,0
+NF1,"neurofibroma, glioma",0
+NF2,"meningioma, acoustic neuroma, renal",0
+NFATC2,Ewing sarcoma,0
+NFE2L2,"NSCLC, HNSCC",0
+NFIB,"adenoid cystic carcinoma, lipoma",0
+NFKB2,B-NHL,0
+NFKBIE,"CLL, desmoplastic melanoma",0
+NIN,MPN,0
+NKX2-1,NSCLC,0
+NONO,papillary renal,0
+NOTCH1,"T-ALL, breast, bladder, skin SCC, lung SCC, head and neck SCC",0
+NOTCH2,"marginal zone lymphoma, DLBCL, bladder",0
+NPM1,"NHL, APL, AML",0
+NR2F2,"endometrioid carcinoma, soft-tissue sarcoma",0
+NR4A3,extraskeletal myxoid chondrosarcoma,0
+NRAS,"melanoma, MM, AML, thyroid",0
+NRG1,NSCLC,0
+NSD1,AML,0
+NSD2,MM,0
+NSD3,AML,0
+NT5C2,relapse ALL,0
+NTHL1,,0
+NTRK1,"papillary thyroid, Spitzoid tumour",0
+NTRK3,"congenital fibrosarcoma, secretory breast",0
+NUMA1,APL,0
+NUP214,"AML, T-ALL",0
+NUP98,AML,0
+NUTM1,lethal midline carcinoma,0
+NUTM2B,endometrial stromal sarcoma,0
+NUTM2D,endometrial stromal sarcoma,0
+OLIG2,T-ALL,0
+OMD,aneurysmal bone cyst,0
+P2RY8,"B-ALL, Down syndrome associated ALL",0
+PABPC1,"HNSCC, biliary tract carcinoma",0
+PAFAH1B2,MLCLS,0
+PALB2,,0
+PATZ1,Ewing sarcoma,0
+PAX3,alveolar rhabdomyosarcoma,0
+PAX5,"NHL, ALL, B-ALL",0
+PAX7,alveolar rhabdomyosarcoma,0
+PAX8,follicular thyroid,0
+PBRM1,"clear cell renal carcinoma, breast",0
+PBX1,"pre B-ALL, myoepithelioma",0
+PCM1,"papillary thyroid, CML, MPN",0
+PDCD1LG2,"PMBL, Hodgkin lymphoma",0
+PDE4DIP,MPN,0
+PDGFB,DFSP,0
+PDGFRA,"GIST, idiopathic hypereosinophilic syndrome, paediatric glioblastoma",0
+PDGFRB,"MPN, AML, CMML, CML",0
+PER1,"AML, CMML",0
+PHF6,ETP ALL,0
+PHOX2B,neuroblastoma,0
+PICALM,"T-ALL, AML",0
+PIK3CB,"SCC, NSCLC",0
+PIK3R3,"epithelial ovarian cancer, glioblastoma, pancreatic ductal adenocarcinoma",0
+PIM1,NHL,0
+PLAG1,"salivary adenoma, lipoblastoma",0
+PLCG1,angiosarcoma,0
+PLEC,breast carcinoma,0
+PML,"APL, ALL",0
+PMS1,,0
+PMS2,,0
+POLQ,oral SCC,0
+POLR2A,meningioma,0
+POT1,CLL,0
+POU2AF1,NHL,0
+POU5F1,sarcoma,0
+PPARG,follicular thyroid,0
+PPFIBP1,"Spitzoid tumour, inflammatory myofibroblastic tumour",0
+PPM1D,"glioma, ovarian cancer, breast cancer",0
+PPP2R1A,clear cell ovarian carcinoma,0
+PPP6C,melanoma,0
+PRCC,papillary renal,0
+PRDM1,DLBCL,0
+PRDM16,"MDS, AML",0
+PREX2,"melanoma, pancreatic ductal adenocarcinoma",0
+PRF1,,0
+PRKACA,"fibrolamellar hepatocellular carcinoma, cortisol secreting adrenal adenoma",0
+PRKAR1A,papillary thyroid,0
+PRKCB,adult T-cell lymphoma-leukaemia,0
+PRKD1,"cribriform adenocarcinoma of the minor salivary glands, polymorphous adenocarcinoma of the minor salivary glands",0
+PRRX1,AML,0
+PSIP1,AML,0
+PTCH1,"skin basal cell, medulloblastoma",0
+PTEN,"glioma, prostate, endometrial",0
+PTK6,"renal, gastric, head and neck, ovarian, others",0
+PTPN11,"JMML, AML, MDS",0
+PTPN13,"lung, NSCLC, gastric, peritoneal carcinomatosis",0
+PTPN6,DLBCL,0
+PTPRB,angiosarcoma,0
+PTPRC,T-ALL,0
+PTPRD,"lung cancer, kidney cancer, HNSCC, glioblastoma",0
+PWWP2A,Spitzoid tumour,0
+RABEP1,CMML,0
+RAC1,"melanoma, carcinoma",0
+RAD50,breast cancer,0
+RAD51B,"lipoma, uterine leiomyoma",0
+RAF1,"pilocytic astrocytoma, prostate",0
+RALGDS,"PMBL, Hodgkin lymphoma,",0
+RANBP2,inflammatory myofibroblastic tumour,0
+RAP1B,glioma,0
+RAP1GDS1,T-ALL,0
+RARA,APL,0
+RB1,"retinoblastoma, sarcoma, breast, small cell lung carcinoma",0
+RBM10,lung adenocarcinoma,0
+RBM15,acute megakaryocytic leukaemia,0
+RECQL4,,0
+REL,Hodgkin lymphoma,0
+RET,"medullary thyroid, papillary thyroid, pheochromocytoma, NSCLC, Spitzoid tumour",0
+RFWD3,lung cancer,0
+RGPD3,endometrioid adenocarcinoma,0
+RGS7,melanoma,0
+RHOA,"diffuse gastric, T cell lymphomas, paediatric Burkitt lymphoma",0
+RHOH,NHL,0
+RMI2,"PMBL, Hodgkin lymphoma",0
+RNF213,ALCL,0
+RNF43,"cholangiocarcinoma, ovary, pancreas",0
+ROS1,"glioblastoma, NSCLC, Spitzoid tumour, cholangiocarcinoma, borderline ovarian",0
+RPL10,T-ALL,0
+RPL22,"AML, CML",0
+RPL5,T-ALL,0
+RPN1,AML,0
+RRAS2,intracranial germ cell tumour,0
+RUNX1,"AML, pre B-ALL, T-ALL",0
+RUNX1T1,AML,0
+RXRA,bladder carcinoma,0
+S100A7,"melanoma, T-cell lymphoma",0
+SBDS,,0
+SDC4,NSCLC,0
+SDHA,"GIST, paraganglioma",0
+SDHAF2,,0
+SDHB,,0
+SDHC,,0
+SDHD,,0
+SEPT5,AML,0
+SEPT6,AML,0
+SEPT9,AML,0
+SET,T-ALL,0
+SETBP1,"aCML, sAML, MDS/MPN-U, CMML, JMML",0
+SETD2,clear cell renal carcinoma,0
+SETDB1,malignant mesothelioma,0
+SF3B1,myelodysplastic syndrome,0
+SFPQ,papillary renal,0
+SGK1,Nodular lymphocyte predominant Hodgkin lymphoma,0
+SH2B3,"MPN, sAML, erythrocytosis, B-ALL",0
+SH3GL1,AL,0
+SHTN1,Spitzoid tumour,0
+SIRPA,"HNSCC, colorectal cancer, Lung SCC",0
+SIX1,Wilms tumour,0
+SIX2,Wilms tumour,0
+SKI,melanoma,0
+SLC34A2,NSCLC,0
+SLC45A3,prostate,0
+SMARCA4,"NSCLC, SCCOHT",0
+SMARCB1,malignant rhabdoid,0
+SMARCD1,breast,0
+SMARCE1,,0
+SMC1A,AML,0
+SMO,skin basal cell,0
+SND1,pancreas acinar carcinoma,0
+SNX29,"PMBL, Hodgkin lymphoma",0
+SOCS1,"Hodgkin lymphoma, PMBL",0
+SOX2,"NSCLC, oesophageal squamous carcinoma",0
+SOX21,multiple myeloma,0
+SPECC1,JMML,0
+SPEN,"SMZL, adenoid cystic carcinoma, DLBCL",0
+SPOP,"prostate, endometrial",0
+SRGAP3,pilocytic astrocytoma,0
+SRSF2,"MDS, CLL",0
+SRSF3,follicular lymphoma,0
+SS18,synovial sarcoma,0
+SS18L1,synovial sarcoma,0
+SSX1,synovial sarcoma,0
+SSX2,synovial sarcoma,0
+SSX4,synovial sarcoma,0
+STAG2,"bladder carcinoma, glioblastoma, melanoma, Ewing's sarcoma, myeloid neoplasms",0
+STAT3,T-cell large granular lymphocytic leukaemia,0
+STAT5B,"large granular lymphocytic leukaemia, skin basal cell, APL",0
+STAT6,"solitary fibrous tumour, meningeal haemangiopericytoma",0
+STIL,T-ALL,0
+STK11,"NSCLC, pancreatic",0
+STRN,"anaplastic thyroid, papillary thyroid, lung",0
+SUB1,lung cancer,0
+SUFU,medulloblastoma,0
+SUZ12,endometrial stromal tumour,0
+SYK,"MDS, peripheral T-cell lymphoma",0
+TAF15,"extraskeletal myxoid chondrosarcoma, ALL",0
+TAL1,lymphoblastic leukaemia/biphasic,0
+TAL2,T-ALL,0
+TBX3,"breast, large intestine, skin",0
+TCEA1,salivary adenoma,0
+TCF12,extraskeletal myxoid chondrosarcoma,0
+TCF3,pre B-ALL,0
+TCL1A,T-CLL,0
+TEC,myxoid chondrosarcoma,0
+TENT5C,MM,0
+TERT,"melanoma, glioblastoma, hepatocellular carcinoma, bladder, skin basal cell, skin squamous cell, mesothelioma, medulloblastoma, other tumour types",0
+TET1,AML,0
+TET2,MDS,0
+TFE3,"papillary renal, alveolar soft part sarcoma, renal",0
+TFEB,renal cell carcinoma (childhood epithelioid),0
+TFG,"papillary thyroid, ALCL, NSCLC, extraskeletal myxoid chondrosarcoma",0
+TFPT,pre-B ALL,0
+TFRC,NHL,0
+THRAP3,aneurysmal bone cyst,0
+TLX1,T-ALL,0
+TLX3,T-ALL,0
+TMEM127,,0
+TMPRSS2,prostate,0
+TMSB4X,DLBCL,0
+TNC,"SCC, melanoma",0
+TNFAIP3,"marginal zone B-cell lymphomas, Hodgkin lymphoma, PMBL",0
+TNFRSF14,follicular lymphoma,0
+TNFRSF17,intestinal T-cell lymphoma,0
+TNRC18,"paediatric AML, promyelocytic leukaemia",0
+TOP1,AML*,0
+TP63,"HNSCC, DLBCL",0
+TPM3,"papillary thyroid, ALCL, NSCLC, Spitzoid tumour",0
+TPM4,ALCL,0
+TPR,"papillary thyroid, NSCLC",0
+TRA,T-ALL,0
+TRAF7,meningioma,0
+TRB,T-ALL,0
+TRD,T-cell leukaemia,0
+TRIM24,APL,0
+TRIM27,papillary thyroid,0
+TRIM33,papillary thyroid,0
+TRIP11,AML,0
+TRRAP,melanoma,0
+TSC1,"renal cell carcinoma, bladder carcinoma",0
+TSC2,"pulmonary lymphangioleiomyomatosis (LAM), renal angiomyolipoma, HNSCC",0
+TSHR,"toxic thyroid adenoma, thyroid gland follicular carcinoma",0
+U2AF1,"CLL, MDS",0
+USP6,aneurysmal bone cyst,0
+USP8,corticotroph adenoma,0
+VAV1,T-cell lymphoma,0
+VHL,"renal, haemangioma, pheochromocytoma",0
+WAS,,0
+WIF1,pleomorphic salivary gland adenoma,0
+WNK2,gastric cancer,0
+WRN,,0
+WT1,"Wilms tumour, desmoplastic small round cell tumour",0
+WWTR1,epithelioid haemangioendothelioma,0
+XPA,,0
+XPC,,0
+XPO1,CLL,0
+YWHAE,endometrial stromal sarcoma,0
+ZBTB16,APL,0
+ZCCHC8,Spitzoid tumour,0
+ZEB1,"CCRCC, melanoma",0
+ZFHX3,"endometrial, gastric, prostate",0
+ZMYM2,"MPN, NHL",0
+ZNF331,follicular thyroid adenoma,0
+ZNF384,ALL,0
+ZNF429,GBM,0
+ZNF479,"lung cancer, bladder carcinoma, prostate carcinoma",0
+ZNF521,ALL,0
+ZRSR2,"MDS, CLL",0
