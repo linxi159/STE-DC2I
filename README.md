@@ -41,3 +41,73 @@ STE-DC2I/
 ├── Fig.4/
 ├── Fig.5/
 └── sessionInfo.txt
+
+## Workflow description
+Step 1. Data preprocessing
+Script: 1_data_preprocessing.R
+Functions:
+quality control
+normalization
+variable gene filtering
+malignant cell subset preparation
+
+Step 2. Target marker identification
+Script: 2_target_marker_gene.R
+Functions:
+subtype-specific marker extraction
+candidate target marker definition
+
+Step 3. Dark causality inference
+
+Script: 3_dark_causal_infer_analysis.R
+Core function file:
+dark_causal_infer_fun.R
+Functions:
+pseudotime trajectory processing
+state-space reconstruction
+symbolic trend encoding
+history projection / nearest-neighbor matching
+dark causality scoring
+driver gene prioritization
+
+Step 4. Comparison and validation
+Script: 4_comparision_validation_analysis.R
+Functions:
+benchmarking
+overlap analysis
+validation metric calculation
+
+Step 5. Enrichment analysis
+Script: 5_enrichment_analysis.R
+Functions:
+GO / KEGG / Reactome / DO enrichment
+driver-specific functional annotation
+
+## Software requirements
+R: 4.4.3
+RStudio: optional
+Operating systems tested: Linux
+Package management: renv
+
+Required R packages
+Main dependencies include, but are not limited to:
+Seurat
+monocle3
+tidyverse
+data.table
+Matrix
+ggplot2
+clusterProfiler / enrichplot / DOSE
+org.Hs.eg.db
+patchwork
+reshape2
+pheatmap
+igraph
+patchwork
+ggrepel
+tidyr
+dplyr
+
+
+
+
