@@ -1,0 +1,10 @@
+FROM rocker/rstudio:4.4.3
+
+WORKDIR /work
+
+COPY . /work
+
+RUN R -e "install.packages('renv', repos='https://cloud.r-project.org')" \
+&& R -e "renv::restore(prompt = FALSE)"
+
+CMD ["Rscript", "run_reproduce.R"]

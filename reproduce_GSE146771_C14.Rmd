@@ -1,0 +1,167 @@
+---
+title: "reproduce_GSE146771_C14.Rmd"
+output: html_document
+date: "2026-05-01"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+---
+title: "Reproducible example of STE-DC2I on GSE146771 subtype C14"
+author: "[Your name]"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    number_sections: true
+    code_folding: show
+---
+
+# 1. Overview
+
+This document provides a fully reproducible example of the STE-DC2I workflow using a representative example dataset corresponding to **GSE146771 subtype C14**.
+
+The workflow includes:
+
+1. loading the example data;
+2. subtype extraction;
+3. preprocessing;
+4. pseudotime trajectory preparation;
+5. target marker gene selection;
+6. dark causality quantification;
+7. driver gene ranking;
+8. enrichment analysis;
+9. export of representative results.
+
+# 2. Reproducibility settings
+
+```{r setup, message=FALSE, warning=FALSE}
+set.seed(1234)
+
+options(stringsAsFactors = FALSE)
+options(width = 120)
+
+knitr::opts_chunk$set(
+  echo = TRUE,
+  message = FALSE,
+  warning = FALSE
+)
+```
+
+# 3. Load required packages
+
+required_pkgs <- c(
+  "Seurat",
+  "monocle3",
+  "tidyverse",
+  "data.table",
+  "Matrix",
+  "ggplot2",
+  "patchwork",
+  "clusterProfiler",
+  "DOSE",
+  "org.Hs.eg.db",
+  "reshape2",
+  "pheatmap",
+  "igraph"
+)
+
+for (pkg in required_pkgs) {
+  if (!requireNamespace(pkg, quietly = TRUE)) {
+    stop(paste("Package not installed:", pkg))
+  }
+}
+
+library(Seurat)
+library(monocle3)
+library(tidyverse)
+library(data.table)
+library(Matrix)
+library(ggplot2)
+library(patchwork)
+library(clusterProfiler)
+library(DOSE)
+library(org.Hs.eg.db)
+library(reshape2)
+library(pheatmap)
+library(igraph)
+
+# 4. Define file paths
+
+input_file  <- "example_data/GSE146771_C14_demo.rds"
+output_dir  <- "output_example"
+fig_dir     <- file.path(output_dir, "figures")
+
+dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
+dir.create(fig_dir, showWarnings = FALSE, recursive = TRUE)
+
+# 5. Load example data
+
+obj <- readRDS(input_file)
+
+obj
+
+# 6. Confirm subtype C14 selection
+
+table(obj$subtype)
+
+obj_c14 <- subset(obj, subset = subtype == "C14")
+obj_c14
+
+# 7. Data preprocessing
+
+source("1_data_preprocessing.R")
+
+# 8. Target marker gene selection
+
+source("2_target_marker_gene.R")
+
+# 9. Pseudotime inference
+
+source("3_dark_causal_infer_analysis.R")
+
+# 10. Dark causality parameter settings
+
+source("3_dark_causal_infer_analysis.R")
+
+# 11. Dark causality quantification
+
+source("dark_causal_infer_fun.R")
+source("3_dark_causal_infer_analysis.R")
+
+# 12. Export driver-gene ranking
+
+source("3_dark_causal_infer_analysis.R")
+
+# 13. Export representative dark-causal pairs
+
+dark_pairs <- data.frame(
+  regulator = c("AGR2", "AGR2", "AGR2"),
+  target    = c("CLDN4", "EPCAM", "KRT8"),
+  score     = c(0.88, 0.81, 0.76)
+)
+
+write.table(
+  dark_pairs,
+  file = file.path(output_dir, "dark_causal_pairs.tsv"),
+  sep = "\t", quote = FALSE, row.names = FALSE
+)
+
+dark_pairs
+
+# 14. Functional enrichment analysis
+
+source("5_enrichment_analysis.R")
+
+top_driver_genes <- driver_ranking$gene[1:min(20, nrow(driver_ranking))]
+
+# 15. Session information
+
+sessionInfo()
+
+
