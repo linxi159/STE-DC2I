@@ -154,8 +154,8 @@ Run example
 
 docker run --rm -it -v $(pwd):/work ste-dc2i-r Rscript run_reproduce.R
 
+## Reproduce the example analysis
+After restoring the R environment, run:
 
-
-
-
-
+```r
+rmarkdown::render("reproduce_GSE146771_C14.Rmd")
