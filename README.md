@@ -13,7 +13,6 @@ This repository now provides:
 ---
 
 ## Repository structure
-
 ```text
 STE-DC2I/
 ├── README.md
@@ -41,6 +40,7 @@ STE-DC2I/
 ├── Fig.4/
 ├── Fig.5/
 └── sessionInfo.txt
+```
 
 ## Workflow description
 Step 1. Data preprocessing
@@ -107,6 +107,31 @@ patchwork
 ggrepel
 tidyr
 dplyr
+
+## Quick start (recommended: renv)
+1. Clone the repository 
+git clone https://github.com/linxi159/STE-DC2I.git
+cd STE-DC2I
+
+2. Install renv
+Open R and run:
+install.packages("renv")
+renv::restore()
+
+3. Run the reproducible example
+rmarkdown::render("reproduce_GSE146771_C14.Rmd")
+OR:
+source("run_reproduce.R")
+
+## Docker-based reproducibility
+A Docker environment is provided for containerized execution.
+Build image
+
+docker build -t ste-dc2i-r .
+Run example
+docker run --rm -it -v $(pwd):/work ste-dc2i-r Rscript run_reproduce.R
+
+
 
 
 
